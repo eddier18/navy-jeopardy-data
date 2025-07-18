@@ -1,0 +1,37 @@
+{
+  "Navy Terms": [
+    ["What is the term for the front of the ship?", "Bow"],
+    ["What does 'Aye Aye' mean?", "I understand and will comply"],
+    ["What is 'Scuttlebutt'?", "A drinking fountain or a rumor"],
+    ["What is a 'bulkhead'?", "A wall on a ship"],
+    ["What is a 'hatch'?", "A door or opening in a ship"]
+  ],
+  "Navy History": [
+    ["When was the U.S. Navy founded?", "October 13, 1775"],
+    ["What was the first U.S. Navy ship?", "USS Constitution"],
+    ["Who is the 'Father of the Navy'?", "John Paul Jones"],
+    ["What was the Battle of Midway?", "A turning point in WWII"],
+    ["When was women allowed to serve on combat ships?", "1994"]
+  ],
+  "Navy Regulations": [
+    ["What document governs Navy conduct?", "UCMJ"],
+    ["How often must sailors complete GMT?", "Annually"],
+    ["What is Article 92?", "Failure to obey an order or regulation"],
+    ["Who can issue a lawful order?", "Any superior commissioned officer"],
+    ["What is the Navy’s drug policy?", "Zero tolerance"]
+  ],
+  "Navy Values": [
+    ["What are the Navy Core Values?", "Honor, Courage, Commitment"],
+    ["What does 'Honor' mean?", "Conducting oneself ethically"],
+    ["What does 'Courage' require?", "Doing the right thing under pressure"],
+    ["What is 'Commitment'?", "Devotion to duty"],
+    ["Why are values important?", "They guide behavior and decisions"]
+  ],
+  "Famous Sailors": [
+    ["Who said 'I have not yet begun to fight'?", "John Paul Jones"],
+    ["Who was the first female admiral?", "Alene Duerk"],
+    ["Who founded the Navy SEALs?", "JFK (officially authorized them)"],
+    ["Who commanded the Great White Fleet?", "Admiral George Dewey"],
+    ["Who was a Navy POW in Vietnam and later senator?", "John McCain"]
+  ]
+}
